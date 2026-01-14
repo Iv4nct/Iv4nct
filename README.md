@@ -1,15 +1,15 @@
-<!-- GitHub Profile · Iván Cumbicus Tacuri · Cybersecurity Edition -->
+<!-- GitHub Profile · Ivan Cumbicus Tacuri · Cybersecurity Edition -->
 
 <!-- HERO -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
-    <img alt="Iván Cumbicus — Cybersecurity & Ethical Hacking" src="./assets/hero-light.png" width="940">
+    <img alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking" src="./assets/hero-light.png" width="940">
   </picture>
 </p>
 
-<h1 align="center">Iván Cumbicus Tacuri</h1>
+<h1 align="center">Ivan Cumbicus Tacuri</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -186,6 +186,6 @@ I don’t just test systems — I understand them end-to-end.
 🌍 Spanish & English (B2)
 
 <p align="center">
-  <a href="mailto:ivancumbicus7@gmail.com">ivancumbicus7@gmail.com</a> · 
+  <a href="mailto:cumbicus7@gmail.com">ivancumbicus7@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/ivancumbicus">LinkedIn</a>
 </p>
