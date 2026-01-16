@@ -5,7 +5,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/Perfil_LinkedIn.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/Perfil_LinkedIn.png">
-    <img alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking" src="./assets/Perfil_LinkedIn.png" width="140" style="border-radius: 50%; object-fit: cover;">
+    <img 
+      alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking"
+      src="./assets/Perfil_LinkedIn.png"
+      width="140"
+      style="border-radius: 50%; object-fit: cover;"
+    >
   </picture>
 </p>
 
