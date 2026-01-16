@@ -3,9 +3,9 @@
 <!-- HERO -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
-    <img alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking" src="./assets/hero.png" width="940">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Perfil_LinkedIn.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Perfil_LinkedIn.png">
+    <img alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking" src="./assets/Perfil_LinkedIn.png" width="940">
   </picture>
 </p>
 
