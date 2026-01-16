@@ -8,8 +8,7 @@
     <img 
       alt="Ivan Cumbicus — Cybersecurity & Ethical Hacking"
       src="./assets/Perfil_LinkedIn.png"
-      width="140"
-      style="border-radius: 50%; object-fit: cover;"
+      width="140""
     >
   </picture>
 </p>
